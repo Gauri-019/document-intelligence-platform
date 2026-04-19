@@ -36,4 +36,4 @@ Open `index.html` in browser
 - /api/recommend/<id>/
 
 ## Screenshots
-(Add screenshots here before final submission)
+
