@@ -36,4 +36,6 @@ Open `index.html` in browser
 - /api/recommend/<id>/
 
 ## Screenshots
+<img width="1919" height="899" alt="Screenshot 2026-04-19 192100" src="ht<img width="1919" height="899" alt="Screenshot 2026-04-19 192100" src="https://github.com/user-attachments/assets/e6fd3488-da2b-4a1f-8969-380a25e2f7a3" />
+tps://github.com/user-attachments/assets/6e1cf5d3-c223-4574-80f0-f3e463f69f8f" />
 
